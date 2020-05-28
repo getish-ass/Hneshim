@@ -1,0 +1,114 @@
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;*/
+
+body{
+  margin: 0;
+  text-align:center;
+
+}
+/*head section*/
+
+#title{
+  background-image: url("kebpic.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+.top-container{
+  padding: 2% 8%;
+}
+.logo{
+  border-radius: 100%;
+}
+a{
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+.kiamfont{
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.first-heading{
+  font-family: 'Playfair Display';
+  font-weight: Bold;
+  font-size: 3.5rem;
+  margin:5% auto;
+  color:#f8f3eb;
+}
+.third-headingdiv{
+  background-color:#dd7631;
+  opacity:0.8;
+  border-radius:25px;
+  margin-bottom: 5%;
+}
+.third-heading{
+font-family:'Playfair Display';
+font-weight: bold;
+font-style: italic;
+padding: 2%;
+color:#f8f3eb;
+}
+
+/*Minstry*/
+#ministry-sec{
+  background-image: url("kiam.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+.ministry{
+text-align: center;
+padding: 5% 8%;
+}
+.h3-ministry{
+  background-color:#dd7631;
+  opacity: 0.8;
+  font-family:'Playfair Display';
+  font-size: 1.6rem;
+  width: 400px;
+  height: 250px;
+  padding:2%;
+  color:#f8f3eb;
+  border-radius: 15px;
+  margin:5% 5%;
+}
+iframe{
+  border-radius: 15px;
+  margin: auto;
+  margin:5% 5%;
+  opacity: 0.8;
+}
+/*Cermony*/
+#cermony{
+  text-align: center;
+  background-color:#c1a57b;
+  color:#fff;
+}
+.container3{
+  padding:5% 8%;
+}
+.child-con3{
+  background-color: #dd7631;
+  opacity: 0.8;
+  border-radius: 20px;
+  margin:5% 5%;
+}
+ul{
+  list-style-type: none;
+}
+/*footer*/
+#footer{
+  text-align: center;
+  background-color: #30475e;
+}
+.sm-icons{
+  padding: 4%;
+}
+.med-icon{
+  margin: 0 1rem;
+}
+.copyrights{
+  padding-bottom: 4%;
+  color: #fff;
+}
